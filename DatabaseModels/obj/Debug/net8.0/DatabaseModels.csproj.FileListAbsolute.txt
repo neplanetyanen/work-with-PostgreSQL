@@ -1,0 +1,14 @@
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\bin\Debug\net8.0\DatabaseModels.deps.json
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\bin\Debug\net8.0\DatabaseModels.runtimeconfig.json
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\bin\Debug\net8.0\DatabaseModels.dll
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\bin\Debug\net8.0\DatabaseModels.pdb
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.csproj.AssemblyReference.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.AssemblyInfoInputs.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.AssemblyInfo.cs
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.dll
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\refint\DatabaseModels.dll
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.pdb
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\DatabaseModels.genruntimeconfig.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseModels\obj\Debug\net8.0\ref\DatabaseModels.dll

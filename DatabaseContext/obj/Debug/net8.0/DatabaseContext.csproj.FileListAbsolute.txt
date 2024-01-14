@@ -1,0 +1,17 @@
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\bin\Debug\net8.0\DatabaseContext.deps.json
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\bin\Debug\net8.0\DatabaseContext.runtimeconfig.json
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\bin\Debug\net8.0\DatabaseContext.dll
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\bin\Debug\net8.0\DatabaseContext.pdb
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\bin\Debug\net8.0\DatabaseModels.dll
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\bin\Debug\net8.0\DatabaseModels.pdb
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.AssemblyInfo.cs
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.csproj.CopyComplete
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.dll
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\refint\DatabaseContext.dll
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.pdb
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\DatabaseContext.genruntimeconfig.cache
+C:\Users\lisal\RiderProjects\apl_lab9\DatabaseContext\obj\Debug\net8.0\ref\DatabaseContext.dll
